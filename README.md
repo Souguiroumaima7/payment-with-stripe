@@ -1,3 +1,3 @@
 # Payment with stripe : 
-The OMDb API is a RESTful web service to obtain movie information, 
-all content and images on the site are contributed and maintained by our users.
+Online payment processing for internet businesses. 
+Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes .
